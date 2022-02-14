@@ -1,0 +1,1 @@
+This file "gitpractice.txt" is an example of how to make changes to a file and commit that change to Git.
